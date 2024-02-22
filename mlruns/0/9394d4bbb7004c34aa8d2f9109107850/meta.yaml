@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gaikw/DesktopFolder/Study/MLOps/mlops_practice/mlops_practice/mlruns/0/9394d4bbb7004c34aa8d2f9109107850/artifacts
+end_time: 1707663872800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9394d4bbb7004c34aa8d2f9109107850
+run_name: likeable-cat-900
+run_uuid: 9394d4bbb7004c34aa8d2f9109107850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707663812970
+status: 3
+tags: []
+user_id: gaikw
